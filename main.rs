@@ -1,4 +1,4 @@
 fn main() {
-  println!("Welcome to the world of Rust");
-  println!("Rust is a system programming with the speed of C and the simplicity of Python");
+  println!("Hello Rust!");
+  println!("Thank you Rust for making it easier than C and C++");
 }
